@@ -3,11 +3,20 @@ body {
     padding: 20px 0;
     margin: 0;
     text-align: center;
+    background-image: url("https://image.slidesdocs.com/responsive-images/background/simple-white-education-pencil-calculator-art-powerpoint-background_644fe4b2ed__960_540.jpg");
 }
 
 span {
     border-bottom: 2px solid black;
     padding: 4px;
+    background-color: rgb(54, 167, 247);
+    width: 20px;
+    height: 20px;
+    border-radius: 5px;
+    padding: 15px;
+    font-weight: 600;
+    color: white;
+    font-size: 20px;
 }
 
 button {
